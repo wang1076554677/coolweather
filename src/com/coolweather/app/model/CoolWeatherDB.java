@@ -1,16 +1,16 @@
 package com.coolweather.app.model;
-
 import java.util.ArrayList;
+
 import java.util.List;
 
 import com.coolweather.app.db.CoolWeatherOpenHelper;
 
-import android.R.integer;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.database.sqlite.SQLiteDatabase.CursorFactory;
+
 
 public class CoolWeatherDB {
 	public static final String DB_NAME="cool_weather";

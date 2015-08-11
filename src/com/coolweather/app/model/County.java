@@ -1,6 +1,5 @@
 package com.coolweather.app.model;
 
-import android.R.integer;
 
 public class County {
 	private int id;
